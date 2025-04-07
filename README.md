@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+I am a student at the International Institute for Population Sciences, Mumbai. I research on examining infant mortality clustering in South Asian countries.
+
 <!--
 **ronakiips/ronakiips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a student at the International Institute for Population Sciences, Mumbai. I research on examining infant mortality clustering in South Asian countries.
+
 
 Here are some ideas to get you started:
 
